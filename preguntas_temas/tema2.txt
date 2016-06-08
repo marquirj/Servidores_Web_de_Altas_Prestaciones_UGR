@@ -1,0 +1,33 @@
+Ejercicio T2.1:
+Calcular la disponibilidad del sistema si tenemos dos
+réplicas de cada elemento (en total 3 elementos en cada
+subsistema). 
+
+Componentes: 3 Elementos:
+WEB            97.76%
+Aplication     
+Database
+DNS
+FireWall
+Switch
+DataCenter 
+ISP
+
+T2.2 Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad.
+Laravel:desarrollo web facilitando las tareas comunes, como la autenticación, enrutamiento, sesiones y caché. 
+Symfony:es util para acelerar la creación y el mantenimiento de sus aplicaciones web.
+
+
+T2.3 ¿Cómo analizar el nivel de carga de cada uno de los
+subsistemas en el servidor?
+Buscar herramientas y aprender a usarlas. 
+
+Top: Lista de procesos de la CPU.
+Munin: Sirve para monitorizar los servicios.
+
+T2.4 Buscar ejemplos de balanceadores software y hardware
+(productos comerciales). 
+
+Balanceador Software: Haproxy
+Balanceador Hardware: Ultra Monkey
+Balanceador de aplicaciones: LoadMaster de KEMP 

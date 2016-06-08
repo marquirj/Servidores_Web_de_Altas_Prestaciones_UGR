@@ -1,0 +1,11 @@
+Ejercicio T5.1:
+Buscar información sobre cómo calcular el número de
+conexiones por segundo. 
+
+Con el comando apache2ctl | grep request sabemos el número de peticiones por segudndo que servimos.
+
+Ejercicio5.2:
+Buscar información sobre características, disponibilidad para
+diversos SO, etc de herramientas para monitorizar las
+prestaciones de un servidor.
+

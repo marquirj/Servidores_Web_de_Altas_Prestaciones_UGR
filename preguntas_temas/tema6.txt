@@ -1,0 +1,33 @@
+Ejercicio T6.1:
+Aplicar con iptables una política de denegar todo el tráfico
+en una de las máquinas de prácticas.
+Comprobar el funcionamiento.
+Aplicar con iptables una política de permitir todo el tráfico
+en una de las máquinas de prácticas.
+Comprobar el funcionamiento.
+
+Para eliminar todos los paquetes entrantes / enviado, pero permitir el tráfico saliente, escriba:  
+iptables -P INPUT DROP
+iptables -P FORWARD DROP
+iptables -P OUTPUT ACCEPT
+iptables -A INPUT -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -L -v -n
+
+URL:http://www.seavtec.com/en/content/soporte/documentacion/iptables-howto-ejemplos-de-iptables-para-sysadmins
+
+
+Ejercicio T6.2:
+Comprobar qué puertos tienen abiertos nuestras máquinas,
+su estado, y qué programa o demonio lo ocupa.
+
+Puerto 22/tcp para el ssh
+Puerto 8./tcp para http 
+
+Con nmap he comprobado los puertos. Poniendo en la máquina servidora 1 nmap 192.168.1.100
+
+Ejercicio T6.3:
+Buscar información acerca de los tipos de ataques más
+comunes en servidores web, en qué consisten, y cómo se
+pueden evitar. 
+
+Ataque DDOS: que son ataque de denegación de servicio. Se pueden evitar instalando algunas aplicaciones como Arbor PeakFlow.

@@ -1,0 +1,36 @@
+Ejercicio T4.1:
+Buscar información sobre cuánto costaría en la actualidad
+un mainframe. Comparar precio y potencia entre esa
+máquina y una granja web de unas prestaciones similares.
+
+El mainframe de IBM z13 puede costar entre 75000$ y 2m$. Es mucho más potente un mainframe que una granja web aunque también nos ahorrariamos mucho dinero en electricidad y mantenimiento.
+Información: http://www.v3.co.uk/v3-uk/analysis/2390692/ibm-s-z13-shows-the-mainframe-still-has-its-place-for-now
+
+
+Ejercicio T4.2: 
+Buscar información sobre precio y características de
+balanceadores hardware específicos. Compara las
+prestaciones que ofrecen unos y otros. 
+
+Un balanceador de carga para pequeñas empreseas puede ser el TPlink  TL-R470 y su precio es 53.58€,se suele usar en CiberCafes.
+Un balanceador Sylcom cuesta unos 1600€, y sirve para balancear varias lineas de internet y tiene una interfaz bastante sencialla. URL:http://www.sylcom.com/balanceador.htm
+
+Ejercicio T4.3:
+Buscar información sobre los métodos de balanceo que
+implementan los dispositivos recogidos en el ejercicio 4.2 
+
+El balanceador Sylcom utiliza el método ROundRobin, el TpLink TL-470 no encuentro que método de balanceo utiliza.
+
+Ejercicio T4.5:
+Probar las diferentes maneras de redirección HTTP.
+¿Cuál es adecuada y cuál no lo es para hacer balanceo de
+carga global? ¿Por qué?
+
+
+Ejercicio T4.6:
+Buscar información sobre los bloques de IP para los distintos
+países o continentes.
+Implementar en JavaScript o PHP la detección de la zona
+desde donde se conecta un usuario 
+
+Para los distintos paises se puede implementar en nuestra página con códig JavaScript o PHP la detección del país.

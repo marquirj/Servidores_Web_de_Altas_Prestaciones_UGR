@@ -1,0 +1,28 @@
+Ejercicio T7.1:
+¿Qué tamaño de unidad de unidad RAID se obtendrá al
+configurar un RAID 0 a partir de dos discos de 100 GB y
+100 GB?
+ 
+200GB
+
+¿Qué tamaño de unidad de unidad RAID se obtendrá al
+configurar un RAID 0 a partir de tres discos de 200 GB
+cada uno? 
+
+600GB
+
+Ejercicio T7.2:
+¿Qué tamaño de unidad de unidad RAID se obtendrá al
+configurar un RAID 1 a partir de dos discos de 100 GB y
+100 GB? 
+100GB
+¿Qué tamaño de unidad de unidad RAID se obtendrá al
+configurar un RAID 1 a partir de tres discos de 200 GB
+cada uno?
+200GB
+
+Ejercicio T7.3:
+¿Qué tamaño de unidad de unidad RAID se obtendrá al
+configurar un RAID 5 a partir de tres discos de 120 GB
+cada uno? 
+120GB

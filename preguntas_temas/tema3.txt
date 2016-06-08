@@ -1,0 +1,16 @@
+Ejercicio T3.1:
+Buscar con qué órdenes de terminal o herramientas gráficas
+podemos configurar bajo Windows y bajo Linux el
+enrutamiento del tráfico de un servidor para pasar el
+tráfico desde una subred a otra. 
+
+En Windows con el comando 'route', también en windows server existe una herramienta de enrutamiento y servicio remoto.
+En linux se puede usar tambié route, también configurando la iptables y asignandole las reglas adecuadas.
+
+Ejercicio T3.2:
+Buscar con qué órdenes de terminal o herramientas gráficas
+podemos configurar bajo Windows y bajo Linux el filtrado
+y bloqueo de paquetes. 
+
+En linux con las reglas de iptables.
+Y en Windows con el firewall que trae por defecto, o también con IPSec.
