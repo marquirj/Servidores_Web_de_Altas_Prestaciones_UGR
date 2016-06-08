@@ -1,0 +1,16 @@
+<pregunta>
+	<enunciado>¿Cuál es una herramienta para el análisis de tráfico?</enunciado>
+	<opcionA>Instagram.</opcionA>
+	<opcionB>Wireshark.</opcionB>
+	<opcionC>SqlServer.</opcionC>
+	<opcionD>Apache</opcionD>
+	<solucion>B</solucion>
+</pregunta>
+<pregunta>
+	<enunciado>¿Qué herramientas podemos usar para analizar el rendimiento de servidores web?</enunciado>
+	<opcionA>httperf</opcionA>
+	<opcionB>apache benchmark</opcionB>
+	<opcionC>openwebload</opcionC>
+	<opcionD>Todas son correctas.</opcionD>
+	<solucion>D</solucion>
+</pregunta>

@@ -1,0 +1,16 @@
+<pregunta>
+	<enunciado>¿Cuál no es un concepto del balanceador de carga?</enunciado>
+	<opcionA>Es un puente entre la red y los servidores finales.</opcionA>
+	<opcionB>Puede manejar protocolos de alto nivel.</opcionB>
+	<opcionC>Maneja protocolos de bases de datos.</opcionC>
+	<opcionD>Puede manejar los protocolos de nivel de red.</opcionD>
+	<solucion>C</solucion>
+</pregunta>
+<pregunta>
+	<enunciado>¿El algoritmo de balanceos basado en turnos supone?</enunciado>
+	<opcionA>A todas las máquinas con la  misma potencia.</opcionA>
+	<opcionB>A la máquina principal con el doble de potencia.</opcionB>
+	<opcionC>A las dos primeras máquinas con el doble de potencia.</opcionC>
+	<opcionD>Todas son falsas.</opcionD>
+	<solucion>A</solucion>
+</pregunta>

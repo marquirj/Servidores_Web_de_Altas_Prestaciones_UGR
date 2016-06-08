@@ -1,0 +1,17 @@
+<pregunta>
+	<enunciado>¿Con qué se forma un backbone?</enunciado>
+	<opcionA>Switch, router o hub.</opcionA>
+	<opcionB>Servidor y un cable de red.</opcionB>
+	<opcionC>Router y una aplicación software.</opcionC>
+	<opcionD>Cortafuegos o  DMZ.</opcionD>
+	<solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>¿Qué es una DMZ?</enunciado>
+	<opcionA>Una zona para visitar cualquier tipo de páginas.</opcionA>
+	<opcionB>Área restringida o aislada, y totalmente controlada.</opcionB>
+	<opcionC>Zona que sólo la visitan las clientes del servicio web.</opcionC>
+	<opcionD>Zona que hace las comunicaciones entre servidores.</opcionD>
+	<solucion>B</solucion>
+</pregunta>

@@ -1,0 +1,17 @@
+<pregunta>
+	<enunciado>¿Qué tipos de escalado existen?</enunciado>
+	<opcionA>Escalado lineal y frontal.</opcionA>
+	<opcionB>Ampliación lineal y frontal.</opcionB>
+	<opcionC>Ampliación vertical y horizontal.</opcionC>
+	<opcionD>Escalado troncal y vertical.</opcionD>
+	<solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>¿Mediante que conseguimos disponibilidad y escalabidad?</enunciado>
+	<opcionA>Balaceo de carga.</opcionA>
+	<opcionB>Replicando servidores.</opcionB>
+	<opcionC>Creando nuevos  usuarios.</opcionC>
+	<opcionD>Monitorizando el sistema.</opcionD>
+	<solucion>A</solucion>
+</pregunta>

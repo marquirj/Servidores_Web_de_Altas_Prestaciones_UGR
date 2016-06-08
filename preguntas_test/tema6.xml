@@ -1,0 +1,17 @@
+<pregunta>
+	<enunciado>¿Qué definen los privilegios de uso?</enunciado>
+	<opcionA>Acciones que pueden llevar a cabo cada tipo de usuario correctamente identificado.</opcionA>
+	<opcionB>Beneficios que tienen ciertos usuarios.</opcionB>
+	<opcionC>Comprueba si u usuario es reconocido.</opcionC>
+	<opcionD>Dectecta si un atacante puede entrar en nuestra granja.</opcionD>
+	<solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>¿de que protege el cortafuegos?</enunciado>
+	<opcionA>De accesos al sistema operativo.</opcionA>
+	<opcionB>De incendios en la red.</opcionB>
+	<opcionC>De accesos indebidos.</opcionC>
+	<opcionD>De popUps-</opcionD>
+	<solucion>C</solucion>
+</pregunta>
